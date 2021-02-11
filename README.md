@@ -1,2 +1,2 @@
 # cf-gen
-generator
+chain generator
